@@ -32,9 +32,16 @@ p {
   line-height: 1.5;
 }
 
+a:link {
+  color: #d62828;
+}
+a:hover {
+  color: #f77f00;
+}
+
 a {
-  link: #d62828;
-  hover: #f77f00;
+  margin-right: 20px;
+  text-align: center;
 }
 
 /* The div container constrains the content width within the main container to 600px */
